@@ -20,9 +20,9 @@ class ResultViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //結果を反映する
-        label.text = "こんにちわ、\(outputValue)さん"
-
-            }
-        }
+        label.text = "こんにちは、\(outputValue)さん"
+        
+    }
+}
 
 //課題については https://capibara1969.com/1060/ こちらも参考にしました。
